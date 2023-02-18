@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git@github.com:FreeeeZ/self-site.git"
+    "url": "git@github.com:FreeeeZ/vite-vue-typescript-template.git"
   },
   "license": "MIT",
   "author": "Vladislav Shell",
