@@ -21,7 +21,7 @@ export const App: FC = (): ReactElement => {
         <a href="https://reactjs.org" target="_blank" rel="noreferrer">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
           <img src={typeScriptLogo} className="logo typescript" alt="TypeScript logo" />
         </a>
       </div>
